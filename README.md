@@ -19,13 +19,13 @@ Installation Steps:
 
 1. Clone the Repository:  
    ```bash
-   git clone https://github.com/praneethakancharla/LogVoice.git
+   git clone https://github.com/lalithyavarmaa/LogVoice.git
    ```
 
 2. Open in Android Studio:  
    - Launch Android Studio.  
    - Select "Open an existing project."  
-   - Navigate to the `LogVoice/` directory and open it.  
+   - Navigate to the `LogVoicee/` directory and open it.  
 
 3. Set Up Firebase:  
    - Go to the [Firebase Console](https://console.firebase.google.com/).  
